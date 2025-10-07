@@ -1,6 +1,6 @@
 package com.driver;
 
-public class Car extends Vehicle {
+public class Car extends Vehicle { //Inheritance
     private int wheels;
     private String type;
     private int doors;

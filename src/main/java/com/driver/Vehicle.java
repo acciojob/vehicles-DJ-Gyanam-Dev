@@ -1,5 +1,6 @@
 package com.driver;
 
+//Vehicle Class
 public class Vehicle {
 
     private String name;

@@ -1,7 +1,7 @@
 package com.driver;
 
 public class Boat implements WaterVehicle {
-    private String name;
+    private String name; //laws of encapsulation
     private int capacity;
 
     public Boat(String name, int capacity){
